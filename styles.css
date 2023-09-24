@@ -1,0 +1,46 @@
+.am1{
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    background-color: green;
+    color: white;
+
+}
+.am2{
+    text-align: center;
+
+    
+
+    font-size: 100px;
+
+}
+
+em{
+    color: blue;
+}
+strong{
+    color:blue
+}
+
+
+
+
+.am3{
+    font-size: 65px;
+
+}
+.am4{
+
+width: 100%;
+border-radius: 50%;
+
+}
+.am5{
+text-align: center;
+color: red;
+
+
+
+
+}
